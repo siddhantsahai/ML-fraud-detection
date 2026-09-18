@@ -553,9 +553,9 @@ The dataset can be downloaded directly from Kaggle.
 
 ## 👨‍💻 Author
 
-**Taufeeq Ahmad**
+**Siddhant sahai**
 
-GitHub: `https://github.com/taufeeqahmadd`
+GitHub: `https://github.com/siddhantsahai`
 
 ---
 
